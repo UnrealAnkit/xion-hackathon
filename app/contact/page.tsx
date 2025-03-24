@@ -65,7 +65,7 @@ export default function ContactPage() {
                 <p className="text-sm text-muted-foreground">No, participation is completely free of charge.</p>
               </div>
               <div>
-                <h3 className="font-medium">What should I bring?</h3>
+                <h3 className="font-medium">What should I bring to event?</h3>
                 <p className="text-sm text-muted-foreground">
                   Bring your laptop, charger, and any other equipment you might need for your project.
                 </p>
